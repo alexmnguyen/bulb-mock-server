@@ -1,0 +1,25 @@
+{
+  "name": "bulb-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmnguyen/bulb-mock-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmnguyen/bulb-mock-server/issues"
+  },
+  "homepage": "https://github.com/alexmnguyen/bulb-mock-server#readme",
+  "dependencies": {
+    "fastify": "^3.19.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
